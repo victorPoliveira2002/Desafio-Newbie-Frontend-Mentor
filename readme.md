@@ -1,6 +1,6 @@
 Olá,
 
-Segue desativo Product preview card component da comunidade frontendmentor.io
+Segue desafivo Product preview card component da comunidade frontendmentor.io
 
 Tecnologias usadas:
  - HTML
