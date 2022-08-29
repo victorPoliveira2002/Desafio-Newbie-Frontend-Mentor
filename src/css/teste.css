@@ -1,0 +1,44 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas:
+        "image conteudo";
+}
+
+#image {
+    border: 3px solid blue;
+    display: inline-block;
+}
+
+#conteudo {
+    border: 3px solid yellow;
+}
+
+
+body {
+    border: 3px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 
+.container {
+    border: 3px solid blue;
+    border-radius: 20px;
+}
+
+#imagem {
+    width: 400px;
+    float: left;
+    border-radius: 20px;
+}
+
+input {
+    text-align: center;
+    color: red;
+    margin: 0 0 150px 0;
+}
+
+*/
