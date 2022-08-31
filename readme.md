@@ -7,3 +7,6 @@ Tecnologias usadas:
  - CSS (GRID, FLEX)
 
  Pagina totalmente responsiva!
+ 
+ Link publicação: https://desafio-newbie-frontend-mentor.vercel.app/
+ Frontendmentor.io: https://www.frontendmentor.io/profile/victorPoliveira2002
